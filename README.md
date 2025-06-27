@@ -1,3 +1,5 @@
+📈 REAL-TIME FINANCIAL FORECASTING WITH CNN-LSTM MODELS
+
 This project focuses on developing a real-time financial forecasting system using a hybrid CNN-LSTM deep learning model. By combining the feature extraction power of Convolutional Neural Networks (CNNs) with the sequence prediction capabilities of Long Short-Term Memory (LSTM) networks, this model aims to accurately predict future stock prices or financial trends based on historical data.
 
 🔍 Key Features:
